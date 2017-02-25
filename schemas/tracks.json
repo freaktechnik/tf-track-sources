@@ -1,0 +1,64 @@
+{
+    "$schema": "http://json-schema.org/schema#",
+    "id": "https://lab.humanoids.be/tf-track-sources/schemas/tracks.json",
+    "title": "Trials Frontier Track Obtaining Schema",
+    "type": "array",
+    "uniqueItems": true,
+    "items": {
+        "title": "Track",
+        "type": "object",
+        "properties": {
+            "name": {
+                "title": "Track title",
+                "type": "string",
+                "minLength": 3
+            },
+            "pieces": {
+                "type": "number",
+                "minimum": 1
+            },
+            "sources": {
+                "type": "array",
+                "uniqueItems": true,
+                "minItems": 0,
+                "items": {
+                    "type": "object",
+                    "properties": {
+                        "source": {
+                            "description": "Source this is obtainable from",
+                            "type": "string",
+                            "minLength": 3
+                        },
+                        "cost": {
+                            "type": "number",
+                            "minimum": 0,
+                            "default": 0
+                        },
+                        "from": {
+                            "description": "From when this track can be obtained from this source",
+                            "format": "date-time",
+                            "formatMinimum": "2014-04-10T00:00:00.000Z",
+                            "default": "2014-04-10T00:00:00.000Z"
+                        },
+                        "until": {
+                            "description": "When this track was no longer available from this source",
+                            "format": "date-time",
+                            "formatMinimum": "2014-04-10T00:00:00.000Z"
+                        },
+                        "condition": {
+                            "type": "string",
+                            "description": "Conditions additional to having at least one bike for the tier the track requires"
+                        }
+                    },
+                    "required": [
+                        "source"
+                    ]
+                }
+            }
+        },
+        "required": [
+            "name",
+            "sources"
+        ]
+    }
+}

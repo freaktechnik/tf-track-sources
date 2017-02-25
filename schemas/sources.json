@@ -1,0 +1,63 @@
+{
+    "$schema": "http://json-schema.org/schema#",
+    "id": "https://lab.humanoids.be/tf-track-sources/schemas/sources.json",
+    "title": "Trials Frontier Track Sources Schema",
+    "type": "array",
+    "uniqueItems": true,
+    "items": {
+        "title": "Track source",
+        "type": "object",
+        "properties": {
+            "type": {
+                "type": "string",
+                "enum": [
+                    "shop",
+                    "mission",
+                    "event",
+                    "pack",
+                    "season",
+                    "other"
+                ]
+            },
+            "name": {
+                "description": "Unique name describing the source",
+                "type": "string",
+                "minLength": 3
+            },
+            "currency": {
+                "description": "Kind of currency used to get tracks",
+                "type": "string",
+                "enum": [
+                    "gold",
+                    "gem",
+                    "chip"
+                ]
+            },
+            "from": {
+                "description": "From when this source exists",
+                "format": "date-time",
+                "formatMinimum": "2014-04-10T00:00:00.000Z",
+                "default": "2014-04-10T00:00:00.000Z"
+            },
+            "until": {
+                "description": "When this source was no longer available",
+                "format": "date-time",
+                "formatMinimum": "2014-04-10T00:00:00.000Z"
+            },
+            "source": {
+                "description": "Source to obtain this source from",
+                "type": "string",
+                "minLength": 3
+            },
+            "description": {
+                "type": "string",
+                "minLength": 10
+            }
+        },
+        "required": [
+            "type",
+            "name"
+        ],
+        "additionalProperties": false
+    }
+}

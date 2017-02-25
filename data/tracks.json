@@ -1,0 +1,1992 @@
+[
+    {
+        "name": "Flower Hills",
+        "sources": [
+            {
+                "source": "A.N.B.A"
+            }
+        ]
+    },
+    {
+        "name": "Buggy Track",
+        "sources": [
+            {
+                "source": "A.N.B.A"
+            }
+        ]
+    },
+    {
+        "name": "Serpent Slough",
+        "sources": [
+            {
+                "source": "A.N.B.A"
+            }
+        ]
+    },
+    {
+        "name": "Frog Village",
+        "sources": [
+            {
+                "source": "A.N.B.A"
+            }
+        ]
+    },
+    {
+        "name": "Marsh Edge",
+        "sources": [
+            {
+                "source": "A.N.B.A"
+            }
+        ]
+    },
+    {
+        "name": "Mushroom Heights",
+        "sources": [
+            {
+                "source": "A.N.B.A"
+            }
+        ]
+    },
+    {
+        "name": "Mud Cakes",
+        "sources": [
+            {
+                "source": "A.N.B.A"
+            }
+        ]
+    },
+    {
+        "name": "Firefly Landing",
+        "sources": [
+            {
+                "source": "A.N.B.A"
+            }
+        ]
+    },
+    {
+        "name": "Monster Lake",
+        "sources": [
+            {
+                "source": "A.N.B.A"
+            }
+        ]
+    },
+    {
+        "name": "Toad Hole",
+        "sources": [
+            {
+                "source": "A.N.B.A"
+            }
+        ]
+    },
+    {
+        "name": "Flooded Highway",
+        "sources": [
+            {
+                "source": "Slotmachine",
+                "condition": "Slotmachine Level: 1"
+            }
+        ]
+    },
+    {
+        "name": "Backyard Catwalk",
+        "sources": [
+            {
+                "source": "Slotmachine",
+                "condition": "Slotmachine Level: 2"
+            }
+        ]
+    },
+    {
+        "name": "Wolf Den",
+        "sources": [
+            {
+                "source": "Slotmachine",
+                "condition": "Slotmachine Level: 5"
+            }
+        ]
+    },
+    {
+        "name": "Steeple Run",
+        "sources": [
+            {
+                "source": "Slotmachine",
+                "condition": "Slotmachine Level: 7"
+            }
+        ]
+    },
+    {
+        "name": "The Waterwheel",
+        "sources": [
+            {
+                "source": "Slotmachine",
+                "condition": "Slotmachine Level: 4"
+            }
+        ]
+    },
+    {
+        "name": "Casino Rooftop",
+        "sources": [
+            {
+                "source": "Slotmachine",
+                "condition": "Slotmachine Level: 8"
+            }
+        ]
+    },
+    {
+        "name": "Fire Oasis",
+        "sources": [
+            {
+                "source": "Slotmachine",
+                "condition": "Slotmachine Level: 6"
+            }
+        ]
+    },
+    {
+        "name": "Wood Switch City",
+        "sources": [
+            {
+                "source": "Slotmachine",
+                "condition": "Slotmachine Level: 9"
+            }
+        ]
+    },
+    {
+        "name": "Coaster Canyon",
+        "sources": [
+            {
+                "source": "Slotmachine",
+                "condition": "Slotmachine Level: 10"
+            }
+        ]
+    },
+    {
+        "name": "Buzzsaw Paradise",
+        "sources": [
+            {
+                "source": "Slotmachine",
+                "condition": "Slotmachine Level: 11"
+            }
+        ]
+    },
+    {
+        "name": "Arch Ruins",
+        "sources": [
+            {
+                "source": "Slotmachine",
+                "condition": "Slotmachine Level: 14"
+            }
+        ]
+    },
+    {
+        "name": "Balance Avenue",
+        "sources": [
+            {
+                "source": "Slotmachine",
+                "condition": "Slotmachine Level: 13"
+            }
+        ]
+    },
+    {
+        "name": "Risky Rooftops",
+        "sources": [
+            {
+                "source": "Slotmachine",
+                "condition": "Slotmachine Level: 16"
+            }
+        ]
+    },
+    {
+        "name": "Hilltop Ghetto",
+        "sources": [
+            {
+                "source": "Slotmachine",
+                "condition": "Slotmachine Level: 17"
+            }
+        ]
+    },
+    {
+        "name": "The Pendulum",
+        "sources": [
+            {
+                "source": "Slotmachine",
+                "condition": "Slotmachine Level: 12"
+            }
+        ]
+    },
+    {
+        "name": "Troll Lair",
+        "sources": [
+            {
+                "source": "Slotmachine",
+                "condition": "Slotmachine Level: 16"
+            }
+        ]
+    },
+    {
+        "name": "The Quagmire",
+        "sources": [
+            {
+                "source": "Slotmachine",
+                "condition": "Slotmachine Level: 17"
+            }
+        ]
+    },
+    {
+        "name": "Trash Tops",
+        "sources": [
+            {
+                "source": "Slotmachine",
+                "condition": "Slotmachine Level: 18"
+            }
+        ]
+    },
+    {
+        "name": "Stilted Path",
+        "sources": [
+            {
+                "source": "Lootwheel"
+            }
+        ]
+    },
+    {
+        "name": "Barrel Chase",
+        "sources": [
+            {
+                "source": "Lootwheel"
+            }
+        ]
+    },
+    {
+        "name": "City Outskirts",
+        "sources": [
+            {
+                "source": "Lootwheel"
+            }
+        ]
+    },
+    {
+        "name": "Crashed Castle",
+        "sources": [
+            {
+                "source": "Lootwheel"
+            }
+        ]
+    },
+    {
+        "name": "Diamond Dash",
+        "sources": [
+            {
+                "source": "Lootwheel"
+            }
+        ]
+    },
+    {
+        "name": "Cannon End",
+        "sources": [
+            {
+                "source": "Lootwheel"
+            }
+        ]
+    },
+    {
+        "name": "Cracked Plateau",
+        "sources": [
+            {
+                "source": "Lootwheel"
+            }
+        ]
+    },
+    {
+        "name": "Coal Town",
+        "sources": [
+            {
+                "source": "Lootwheel"
+            }
+        ]
+    },
+    {
+        "name": "Drifter Valley",
+        "sources": [
+            {
+                "source": "Lootwheel"
+            }
+        ]
+    },
+    {
+        "name": "Garbage Route",
+        "sources": [
+            {
+                "source": "Lootwheel"
+            }
+        ]
+    },
+    {
+        "name": "Trapeze Churn",
+        "sources": [
+            {
+                "source": "Lootwheel"
+            }
+        ]
+    },
+    {
+        "name": "Logging Camp",
+        "sources": [
+            {
+                "source": "Lootwheel"
+            }
+        ]
+    },
+    {
+        "name": "Sunshine District",
+        "sources": [
+            {
+                "source": "Lootwheel"
+            }
+        ]
+    },
+    {
+        "name": "Canary Street",
+        "sources": [
+            {
+                "source": "Lootwheel"
+            }
+        ]
+    },
+    {
+        "name": "Lazy Catapult",
+        "sources": [
+            {
+                "source": "Lootwheel"
+            }
+        ]
+    },
+    {
+        "name": "Elephant Graveyard",
+        "sources": [
+            {
+                "source": "Lootwheel"
+            }
+        ]
+    },
+    {
+        "name": "Fang Wall",
+        "sources": [
+            {
+                "source": "Lootwheel"
+            }
+        ]
+    },
+    {
+        "name": "Rocky Road",
+        "sources": [
+            {
+                "source": "Time Machine"
+            }
+        ]
+    },
+    {
+        "name": "Cave Dweller",
+        "sources": [
+            {
+                "source": "Time Machine"
+            }
+        ]
+    },
+    {
+        "name": "Road to Ruin",
+        "sources": [
+            {
+                "source": "Time Machine"
+            }
+        ]
+    },
+    {
+        "name": "Parched Cliff",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "The Cave",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "Cave Entrance",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "Three Bridges",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "Night Life",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "Pike Alley",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "Market Street",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "The Aqueduct",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "Rocky Desert",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "Moonlight Towers",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "Rooftops",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "Smuggler Tunnel",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "Rock Wall",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "Urban Jungle",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "The Arches",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "Pipeline Camp",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "Well Park",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "Dust Bowl",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "The Lift",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "Cannon Ridge",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "Hinged Pathway",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "Sunset Dungeon",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "Flaming Freeway",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "Pipe Basin",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "Burning Bushes",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "The Beamery",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "Old City Wall",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "Burnyard",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "Deadwood Valley",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "Lost Playground",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "Crane Peak",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "Ghost Town",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "Steam Quarter",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "Planks and Mozzies",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "The Trebuchet",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "Bouncy Hills",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "Fort Ruins",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "Wall Crack",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "Tree Houses",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "Lookout Point",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "The Mill",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "Spinner's Alley",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "The Purifier",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "Crane Yard",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "Sewage Treatment",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "Desert Gondola",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "Drop Zone",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "The Watchers",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "Lumber Yard",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "The Tanktops",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "Trojan Giraffe",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "The Stacks",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "Cracked Reservoir",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "The Refinery",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "The Grindhouse",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "Dark Machine",
+        "sources": [
+            {
+                "source": "Main Story"
+            }
+        ]
+    },
+    {
+        "name": "Pumpkin Patch",
+        "sources": [
+            {
+                "source": "Halloween 2014"
+            },
+            {
+                "source": "Lootwheel"
+            }
+        ]
+    },
+    {
+        "name": "Doom Drop",
+        "sources": [
+            {
+                "source": "Halloween 2014"
+            },
+            {
+                "source": "Lootwheel"
+            }
+        ]
+    },
+    {
+        "name": "Terror Tower",
+        "sources": [
+            {
+                "source": "Halloween 2014"
+            },
+            {
+                "source": "Lootwheel"
+            }
+        ]
+    },
+    {
+        "name": "Haunted Hallows",
+        "sources": [
+            {
+                "source": "Halloween 2014"
+            },
+            {
+                "source": "Lootwheel"
+            }
+        ]
+    },
+    {
+        "name": "Underground Slopes",
+        "sources": [
+            {
+                "source": "Bunker Chip Shop",
+                "cost": 200
+            }
+        ]
+    },
+    {
+        "name": "Abandoned Mine",
+        "sources": [
+            {
+                "source": "Bunker Chip Shop",
+                "cost": 500
+            }
+        ]
+    },
+    {
+        "name": "Unstable Tunnel",
+        "sources": [
+            {
+                "source": "Bunker Chip Shop",
+                "cost": 1000
+            }
+        ]
+    },
+    {
+        "name": "Processing Center",
+        "sources": [
+            {
+                "source": "Bunker Chip Shop",
+                "cost": 1500
+            }
+        ]
+    },
+    {
+        "name": "Cave Crossing",
+        "sources": [
+            {
+                "source": "Bunker Chip Shop",
+                "cost": 2500
+            }
+        ]
+    },
+    {
+        "name": "Forbidden Path",
+        "sources": [
+            {
+                "source": "Bunker Chip Shop",
+                "cost": 5000
+            }
+        ]
+    },
+    {
+        "name": "Delivery Line",
+        "sources": [
+            {
+                "source": "Bunker Chip Shop",
+                "cost": 7500
+            }
+        ]
+    },
+    {
+        "name": "Crystal Kingdom",
+        "sources": [
+            {
+                "source": "Bunker Chip Shop",
+                "cost": 10000
+            }
+        ]
+    },
+    {
+        "name": "Smelting Pots",
+        "sources": [
+            {
+                "source": "Bunker Chip Shop",
+                "cost": 12500
+            }
+        ]
+    },
+    {
+        "name": "Nightmare Grotto",
+        "sources": [
+            {
+                "source": "Bunker Chip Shop",
+                "cost": 15000
+            }
+        ]
+    },
+    {
+        "name": "Explosive Storage",
+        "sources": [
+            {
+                "source": "Bunker Chip Shop",
+                "cost": 17500
+            }
+        ]
+    },
+    {
+        "name": "Minecart Dump",
+        "sources": [
+            {
+                "source": "Bunker Chip Shop",
+                "cost": 20000
+            }
+        ]
+    },
+    {
+        "name": "Wrecked Tracks",
+        "sources": [
+            {
+                "source": "Bunker Chip Shop",
+                "cost": 25000
+            }
+        ]
+    },
+    {
+        "name": "The Shaft",
+        "sources": [
+            {
+                "source": "Bunker Chip Shop",
+                "cost": 30000
+            }
+        ]
+    },
+    {
+        "name": "Waste Disposal",
+        "sources": [
+            {
+                "source": "Bunker Chip Shop",
+                "cost": 35000
+            }
+        ]
+    },
+    {
+        "name": "Traction Testground",
+        "sources": [
+            {
+                "source": "Bunker Chip Shop",
+                "cost": 40000
+            }
+        ]
+    },
+    {
+        "name": "Great Wall",
+        "sources": [
+            {
+                "source": "China"
+            }
+        ]
+    },
+    {
+        "name": "Walrus Road",
+        "sources": [
+            {
+                "source": "Winter 2015"
+            }
+        ]
+    },
+    {
+        "name": "Snowman Haven",
+        "sources": [
+            {
+                "source": "Winter 2015"
+            }
+        ]
+    },
+    {
+        "name": "Frostmoore",
+        "sources": [
+            {
+                "source": "Winter 2015"
+            }
+        ]
+    },
+    {
+        "name": "Container Grounds",
+        "sources": [
+            {
+                "source": "Winter 2015"
+            }
+        ]
+    },
+    {
+        "name": "Icy Foothills",
+        "sources": [
+            {
+                "source": "Winter 2015"
+            }
+        ]
+    },
+    {
+        "name": "Frozen Facility",
+        "sources": [
+            {
+                "source": "Winter 2015"
+            }
+        ]
+    },
+    {
+        "name": "Squall Slide",
+        "sources": [
+            {
+                "source": "Winter 2015"
+            }
+        ]
+    },
+    {
+        "name": "Penguin Landing",
+        "sources": [
+            {
+                "source": "Winter 2015"
+            }
+        ]
+    },
+    {
+        "name": "Ice Blockade",
+        "sources": [
+            {
+                "source": "Winter 2015"
+            }
+        ]
+    },
+    {
+        "name": "Snowball Ride",
+        "sources": [
+            {
+                "source": "Winter 2015"
+            }
+        ]
+    },
+    {
+        "name": "Sledridge Gorge",
+        "sources": [
+            {
+                "source": "Winter 2015"
+            }
+        ]
+    },
+    {
+        "name": "Chopping District",
+        "sources": [
+            {
+                "source": "Winter 2015"
+            }
+        ]
+    },
+    {
+        "name": "Icebound Hamlet",
+        "sources": [
+            {
+                "source": "Winter 2015"
+            }
+        ]
+    },
+    {
+        "name": "Frosty Plumbing",
+        "sources": [
+            {
+                "source": "Winter 2015"
+            }
+        ]
+    },
+    {
+        "name": "Permafrost Climb",
+        "sources": [
+            {
+                "source": "Winter 2015"
+            }
+        ]
+    },
+    {
+        "name": "Chilled Cliffs",
+        "sources": [
+            {
+                "source": "Winter 2015"
+            }
+        ]
+    },
+    {
+        "name": "Forgotten Factory",
+        "sources": [
+            {
+                "source": "Agents 2015"
+            },
+            {
+                "source": "Daily Deals",
+                "from": "2016-03-21T00:00:00.000Z"
+            }
+        ]
+    },
+    {
+        "name": "Rocks Off",
+        "sources": [
+            {
+                "source": "Agents 2015"
+            },
+            {
+                "source": "Daily Deals",
+                "from": "2016-03-21T00:00:00.000Z"
+            }
+        ]
+    },
+    {
+        "name": "Barren Steps",
+        "sources": [
+            {
+                "source": "Agents 2015"
+            },
+            {
+                "source": "Daily Deals",
+                "from": "2016-03-21T00:00:00.000Z"
+            }
+        ]
+    },
+    {
+        "name": "Villainous Hideout",
+        "sources": [
+            {
+                "source": "Agents 2015"
+            },
+            {
+                "source": "Daily Deals",
+                "from": "2016-03-21T00:00:00.000Z"
+            }
+        ]
+    },
+    {
+        "name": "Crow Nest",
+        "sources": [
+            {
+                "source": "Rodeo 2015"
+            },
+            {
+                "source": "Daily Deals",
+                "from": "2016-03-21T00:00:00.000Z"
+            }
+        ]
+    },
+    {
+        "name": "Vagrant Camp",
+        "sources": [
+            {
+                "source": "Rodeo 2015"
+            },
+            {
+                "source": "Daily Deals",
+                "from": "2016-03-21T00:00:00.000Z"
+            }
+        ]
+    },
+    {
+        "name": "Tribal Homestead",
+        "sources": [
+            {
+                "source": "Rodeo 2015"
+            },
+            {
+                "source": "Daily Deals",
+                "from": "2016-03-21T00:00:00.000Z"
+            }
+        ]
+    },
+    {
+        "name": "Gem Quarry",
+        "sources": [
+            {
+                "source": "Rodeo 2015"
+            },
+            {
+                "source": "Daily Deals",
+                "from": "2016-03-21T00:00:00.000Z"
+            }
+        ]
+    },
+    {
+        "name": "Amusement Pit",
+        "sources": [
+            {
+                "source": "Rodeo 2015"
+            },
+            {
+                "source": "Daily Deals",
+                "from": "2016-03-21T00:00:00.000Z"
+            }
+        ]
+    },
+    {
+        "name": "Toxin Harvest",
+        "sources": [
+            {
+                "source": "Rodeo 2015"
+            },
+            {
+                "source": "Daily Deals",
+                "from": "2016-03-21T00:00:00.000Z"
+            }
+        ]
+    },
+    {
+        "name": "The Big Swing",
+        "sources": [
+            {
+                "source": "Rodeo 2015"
+            },
+            {
+                "source": "Daily Deals",
+                "from": "2016-03-21T00:00:00.000Z"
+            }
+        ]
+    },
+    {
+        "name": "Lift of Doom",
+        "sources": [
+            {
+                "source": "Halloween 2015"
+            }
+        ]
+    },
+    {
+        "name": "Spider Kingdom",
+        "sources": [
+            {
+                "source": "Halloween 2015"
+            }
+        ]
+    },
+    {
+        "name": "City Blues",
+        "sources": [
+            {
+                "source": "Halloween 2015"
+            }
+        ]
+    },
+    {
+        "name": "Hops of Fury",
+        "sources": [
+            {
+                "source": "Halloween 2015"
+            }
+        ]
+    },
+    {
+        "name": "Ruins of Despair",
+        "sources": [
+            {
+                "source": "Halloween 2015"
+            }
+        ]
+    },
+    {
+        "name": "Black Forest",
+        "sources": [
+            {
+                "source": "Halloween 2015"
+            }
+        ]
+    },
+    {
+        "name": "Pumpking Desert",
+        "sources": [
+            {
+                "source": "Halloween 2015"
+            }
+        ]
+    },
+    {
+        "name": "Devil Hopping",
+        "sources": [
+            {
+                "source": "Halloween 2015"
+            }
+        ]
+    },
+    {
+        "name": "Dark Sands",
+        "sources": [
+            {
+                "source": "Halloween 2015"
+            }
+        ]
+    },
+    {
+        "name": "Crow Roofs",
+        "sources": [
+            {
+                "source": "Halloween 2015"
+            }
+        ]
+    },
+    {
+        "name": "Curves of Destiny",
+        "sources": [
+            {
+                "source": "Halloween 2015"
+            }
+        ]
+    },
+    {
+        "name": "Death Wheel",
+        "sources": [
+            {
+                "source": "Halloween 2015"
+            }
+        ]
+    },
+    {
+        "name": "Fest Mine",
+        "sources": [
+            {
+                "source": "Halloween 2015"
+            }
+        ]
+    },
+    {
+        "name": "Skater Paradise",
+        "sources": [
+            {
+                "source": "Christmas 2015"
+            }
+        ]
+    },
+    {
+        "name": "Candyland",
+        "sources": [
+            {
+                "source": "Christmas 2015"
+            }
+        ]
+    },
+    {
+        "name": "Slick Slalom",
+        "sources": [
+            {
+                "source": "Christmas 2015"
+            }
+        ]
+    },
+    {
+        "name": "Workshop Path",
+        "sources": [
+            {
+                "source": "Christmas 2015"
+            }
+        ]
+    },
+    {
+        "name": "Bell Tower",
+        "sources": [
+            {
+                "source": "Christmas 2015"
+            }
+        ]
+    },
+    {
+        "name": "Frost Carnival",
+        "sources": [
+            {
+                "source": "Christmas 2015"
+            }
+        ]
+    },
+    {
+        "name": "The Bell Pit",
+        "sources": [
+            {
+                "source": "Christmas 2015"
+            }
+        ]
+    },
+    {
+        "name": "Sled Loading Bay",
+        "sources": [
+            {
+                "source": "Christmas 2015"
+            }
+        ]
+    },
+    {
+        "name": "Nightwatch Haven",
+        "sources": [
+            {
+                "source": "Christmas 2015"
+            }
+        ]
+    },
+    {
+        "name": "The Naughty List",
+        "sources": [
+            {
+                "source": "Christmas 2015"
+            }
+        ]
+    },
+    {
+        "name": "Present Village",
+        "sources": [
+            {
+                "source": "Christmas 2015"
+            }
+        ]
+    },
+    {
+        "name": "Concealed Entryway",
+        "sources": [
+            {
+                "source": "Petrol Falls"
+            }
+        ]
+    },
+    {
+        "name": "Petrol Falls Path",
+        "sources": [
+            {
+                "source": "Petrol Falls"
+            }
+        ]
+    },
+    {
+        "name": "Trial of Courage",
+        "sources": [
+            {
+                "source": "Petrol Falls"
+            }
+        ]
+    },
+    {
+        "name": "Leaping Hollows",
+        "sources": [
+            {
+                "source": "KTM 500-EXC 2016"
+            }
+        ]
+    },
+    {
+        "name": "Muddy Mounds",
+        "sources": [
+            {
+                "source": "KTM 500-EXC 2016"
+            }
+        ]
+    },
+    {
+        "name": "Lost Race Track",
+        "sources": [
+            {
+                "source": "KTM 500-EXC 2016"
+            }
+        ]
+    },
+    {
+        "name": "Endurance Run",
+        "sources": [
+            {
+                "source": "KTM 500-EXC 2016"
+            }
+        ]
+    },
+    {
+        "name": "KTM Course",
+        "sources": [
+            {
+                "source": "KTM Season"
+            },
+            {
+                "source": "Daily Deals",
+                "cost": 40
+            },
+            {
+                "source": "Midnight Season"
+            }
+        ]
+    },
+    {
+        "name": "Open Jaw Bog",
+        "sources": []
+    },
+    {
+        "name": "Cold Cut Corner",
+        "sources": [
+            {
+                "source": "Snowman Season"
+            }
+        ]
+    },
+    {
+        "name": "Root Canal",
+        "sources": [
+            {
+                "source": "Afterparty Season"
+            }
+        ]
+    },
+    {
+        "name": "Metal Mayhem",
+        "sources": [
+            {
+                "source": "Expedition Season"
+            },
+            {
+                "source": "Snowman Season"
+            }
+        ]
+    },
+    {
+        "name": "Safe Escape",
+        "sources": [
+            {
+                "source": "Headbanger Season"
+            }
+        ]
+    },
+    {
+        "name": "Longshot Lake",
+        "pieces": 10,
+        "sources": [
+            {
+                "source": "Map",
+                "cost": 10
+            },
+            {
+                "source": "Bunker Chip Shop",
+                "cost": 200
+            }
+        ]
+    },
+    {
+        "name": "Overdose",
+        "sources": [
+            {
+                "source": "Bunker Chip Shop"
+            }
+        ]
+    },
+    {
+        "name": "Endless Wealth",
+        "sources": []
+    },
+    {
+        "name": "Homegrown",
+        "sources": [
+            {
+                "source": "Organic Season"
+            }
+        ]
+    },
+    {
+        "name": "Torn Canyon",
+        "sources": [
+            {
+                "source": "Midnight Season"
+            }
+        ]
+    },
+    {
+        "name": "Crystal Crossing",
+        "sources": [
+            {
+                "source": "Afterparty Season"
+            }
+        ]
+    },
+    {
+        "name": "Razor Dunes",
+        "sources": [
+            {
+                "source": "Treasure Hunt 2016"
+            },
+            {
+                "source": "Daily Deals"
+            }
+        ]
+    },
+    {
+        "name": "Hide Tide Heights",
+        "sources": [
+            {
+                "source": "Treasure Hunt 2016"
+            },
+            {
+                "source": "Daily Deals"
+            }
+        ]
+    },
+    {
+        "name": "Faceplant Predinct",
+        "sources": [
+            {
+                "source": "Treasure Hunt 2016"
+            },
+            {
+                "source": "Daily Deals"
+            }
+        ]
+    },
+    {
+        "name": "Choking Hazard",
+        "sources": [
+            {
+                "source": "Treasure Hunt 2016"
+            },
+            {
+                "source": "Daily Deals"
+            }
+        ]
+    },
+    {
+        "name": "Exile Pass",
+        "sources": [
+            {
+                "source": "Midnight Circuit 2016"
+            }
+        ]
+    },
+    {
+        "name": "Derailed",
+        "sources": [
+            {
+                "source": "Midnight Circuit 2016"
+            }
+        ]
+    },
+    {
+        "name": "Impact Attics",
+        "sources": [
+            {
+                "source": "Midnight Circuit 2016"
+            }
+        ]
+    },
+    {
+        "name": "Itchy Jaws",
+        "sources": [
+            {
+                "source": "Midnight Circuit 2016"
+            }
+        ]
+    },
+    {
+        "name": "Nausea Night",
+        "sources": [
+            {
+                "source": "Midnight Circuit 2016"
+            }
+        ]
+    },
+    {
+        "name": "Lollygagging",
+        "sources": [
+            {
+                "source": "Midnight Circuit 2016"
+            }
+        ]
+    },
+    {
+        "name": "Acrobat Quarter",
+        "sources": [
+            {
+                "source": "Midnight Circuit 2016"
+            }
+        ]
+    },
+    {
+        "name": "Fenland Flail",
+        "sources": [
+            {
+                "source": "Midnight Circuit 2016"
+            }
+        ]
+    },
+    {
+        "name": "The Assumption",
+        "sources": [
+            {
+                "source": "KTM 2017"
+            }
+        ]
+    },
+    {
+        "name": "Peace Hammer",
+        "sources": [
+            {
+                "source": "KTM 2017"
+            }
+        ]
+    },
+    {
+        "name": "Fair Winds",
+        "sources": [
+            {
+                "source": "KTM 2017"
+            }
+        ]
+    },
+    {
+        "name": "Plant Food",
+        "pieces": 10,
+        "sources": [
+            {
+                "source": "KTM 2017"
+            }
+        ]
+    },
+    {
+        "name": "Lost Descent",
+        "pieces": 10,
+        "sources": [
+            {
+                "source": "KTM 2017"
+            },
+            {
+                "source": "Map",
+                "cost": 10
+            }
+        ]
+    },
+    {
+        "name": "Peaceful Pummel",
+        "pieces": 10,
+        "sources": [
+            {
+                "source": "KTM 2017"
+            }
+        ]
+    },
+    {
+        "name": "Dark Smoke",
+        "pieces": 10,
+        "sources": [
+            {
+                "source": "KTM 2017"
+            }
+        ]
+    },
+    {
+        "name": "Bayou Boatride",
+        "sources": [
+            {
+                "source": "KTM 2017"
+            }
+        ]
+    },
+    {
+        "name": "Broken Skull",
+        "sources": [
+            {
+                "source": "Anniversary 2017"
+            }
+        ]
+    },
+    {
+        "name": "Refinery Abyss",
+        "sources": [
+            {
+                "source": "Hardcore Track Pack 1"
+            }
+        ]
+    },
+    {
+        "name": "Rotten Railway",
+        "sources": [
+            {
+                "source": "Hardcore Track Pack 1"
+            }
+        ]
+    },
+    {
+        "name": "Melancholy Temple",
+        "sources": [
+            {
+                "source": "Hardcore Track Pack 1"
+            }
+        ]
+    },
+    {
+        "name": "Daredevil Paradise",
+        "sources": [
+            {
+                "source": "Hardcore Track Pack 1"
+            }
+        ]
+    },
+    {
+        "name": "Fault Village",
+        "sources": [
+            {
+                "source": "Hardcore Track Pack 1"
+            }
+        ]
+    },
+    {
+        "name": "Alpha Street",
+        "sources": [
+            {
+                "source": "Hardcore Track Pack 1"
+            }
+        ]
+    },
+    {
+        "name": "Fatality Lane",
+        "sources": [
+            {
+                "source": "Hardcore Track Pack 2"
+            }
+        ]
+    },
+    {
+        "name": "Girder Precinct",
+        "sources": [
+            {
+                "source": "Hardcore Track Pack 2"
+            }
+        ]
+    },
+    {
+        "name": "Stuntman Plaza",
+        "sources": [
+            {
+                "source": "Hardcore Track Pack 2"
+            }
+        ]
+    },
+    {
+        "name": "Rite Passage",
+        "sources": [
+            {
+                "source": "Hardcore Track Pack 2"
+            }
+        ]
+    },
+    {
+        "name": "Merchandise Stash",
+        "sources": [
+            {
+                "source": "Hardcore Track Pack 2"
+            }
+        ]
+    },
+    {
+        "name": "Grease Transit",
+        "sources": [
+            {
+                "source": "Hardcore Track Pack 2"
+            }
+        ]
+    },
+    {
+        "name": "Grand Moonshine",
+        "sources": [
+            {
+                "source": "Hardcore Track Pack 3"
+            }
+        ]
+    },
+    {
+        "name": "Vault Crawl",
+        "sources": [
+            {
+                "source": "Hardcore Track Pack 3"
+            }
+        ]
+    },
+    {
+        "name": "Scorched Battlement",
+        "sources": [
+            {
+                "source": "Hardcore Track Pack 3"
+            }
+        ]
+    },
+    {
+        "name": "Madhouse",
+        "sources": [
+            {
+                "source": "Hardcore Track Pack 3"
+            }
+        ]
+    },
+    {
+        "name": "Woodwork Conclave",
+        "sources": [
+            {
+                "source": "Hardcore Track Pack 3"
+            }
+        ]
+    },
+    {
+        "name": "Widowmaker",
+        "sources": [
+            {
+                "source": "Hardcore Track Pack 3"
+            }
+        ]
+    }
+]

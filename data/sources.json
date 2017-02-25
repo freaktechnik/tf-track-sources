@@ -1,0 +1,179 @@
+[
+    {
+        "type": "shop",
+        "name": "Daily Deals",
+        "currency": "gem"
+    },
+    {
+        "type": "shop",
+        "name": "Special Offers",
+        "currency": "gem"
+    },
+    {
+        "type": "shop",
+        "name": "Bunker Chip Shop",
+        "currency": "chip"
+    },
+    {
+        "type": "shop",
+        "name": "Map",
+        "currency": "gem",
+        "description": "Parts can be bought in the detail view of the track on the map."
+    },
+    {
+        "type": "mission",
+        "name": "Main Story"
+    },
+    {
+        "type": "mission",
+        "name": "A.N.B.A"
+    },
+    {
+        "type": "other",
+        "name": "Slotmachine",
+        "description": "Slotmachine daily special rewards"
+    },
+    {
+        "type": "other",
+        "name": "Lootwheel"
+    },
+    {
+        "type": "mission",
+        "name": "Time Machine",
+        "until": "2017-01-01T00:00:00.000Z"
+    },
+    {
+        "type": "event",
+        "name": "Halloween 2014",
+        "from": "2014-10-23T00:00:00.000Z",
+        "until": "2014-11-24T00:00:00.000Z"
+    },
+    {
+        "type": "event",
+        "name": "China"
+    },
+    {
+        "type": "event",
+        "name": "Winter 2015",
+        "from": "2015-04-16T00:00:00.000Z",
+        "until": "2015-05-16T00:00:00.000Z",
+        "description": "Launched at the 1 year anniversary as Frostpocalypse"
+    },
+    {
+        "type": "event",
+        "name": "Agents 2015",
+        "from": "2015-07-17T00:00:00.000Z",
+        "until": "2015-07-31T00:00:00.000Z"
+    },
+    {
+        "type": "event",
+        "name": "Rodeo 2015",
+        "from": "2015-09-01T00:00:00.000Z",
+        "until": "2015-11-01T00:00:00.000Z"
+    },
+    {
+        "type": "event",
+        "name": "Halloween 2015",
+        "from": "2015-10-31T00:00:00.000Z",
+        "until": "2015-11-31T00:00:00.000Z"
+    },
+    {
+        "type": "event",
+        "name": "Christmas 2015",
+        "from": "2015-12-01T00:00:00.000Z",
+        "until": "2015-12-31T00:00:00.000Z"
+    },
+    {
+        "type": "event",
+        "name": "KTM 500-EXC 2016",
+        "from": "2016-04-01T00:00:00.000Z",
+        "until": "2016-04-31T00:00:00.000Z"
+    },
+    {
+        "type": "mission",
+        "name": "Petrol Falls",
+        "from": "2016-02-19T00:00:00.000Z"
+    },
+    {
+        "type": "event",
+        "name": "Treasure Hunt 2016",
+        "from": "2016-07-01T07:00:00.000Z",
+        "until": "2016-07-15T06:59:59.999Z"
+    },
+    {
+        "type": "event",
+        "name": "Midnight Circuit 2016",
+        "from": "2016-11-01T00:00:00.000Z",
+        "until": "2016-11-31T00:00:00.000Z"
+    },
+    {
+        "type": "event",
+        "name": "KTM 2017",
+        "from": "2017-01-05T11:00:00.000Z",
+        "until": "2017-02-06T10:59:59.999Z"
+    },
+    {
+        "type": "event",
+        "name": "Anniversary 2017",
+        "from": "2017-01-04T16:10:00.000Z",
+        "description": "Given out to all users to celebrate 50 Million users"
+    },
+    {
+        "type": "pack",
+        "name": "Hardcore Track Pack 1",
+        "source": "Special Offers"
+    },
+    {
+        "type": "pack",
+        "name": "Hardcore Track Pack 2",
+        "source": "Special Offers"
+    },
+    {
+        "type": "pack",
+        "name": "Hardcore Track Pack 3",
+        "source": "Special Offers"
+    },
+    {
+        "type": "season",
+        "name": "Afterparty Season",
+        "from": "2017-01-01T11:00:00.000Z",
+        "until": "2017-01-30T00:00:00.000Z",
+        "description": "January 2017 Bunker Showdown Season"
+    },
+    {
+        "type": "season",
+        "name": "Snowman Season",
+        "from": "2016-12-01T11:00:00.000Z",
+        "until": "2016-12-31T00:00:00.000Z"
+    },
+    {
+        "type": "season",
+        "name": "Midnight Season",
+        "from": "2016-11-01T11:00:00.000Z",
+        "until": "2016-11-30T00:00:00.000Z"
+    },
+    {
+        "type": "season",
+        "name": "Organic Season",
+        "from": "2016-10-04T11:00:00.000Z",
+        "until": "2016-10-31T00:00:00.000Z"
+    },
+    {
+        "type": "season",
+        "name": "Headbanger Season",
+        "from": "2016-08-31T11:00:00.000Z",
+        "until": "2016-10-04T00:00:00.000Z"
+    },
+    {
+        "type": "season",
+        "name": "Expedition Season",
+        "from": "2016-04-26T00:00:00.000Z",
+        "until": "2016-05-23T00:00:00.000Z"
+    },
+    {
+        "type": "season",
+        "name": "KTM Season",
+        "from": "2016-02-28T00:00:00.000Z",
+        "until": "2016-03-27T00:00:00.000Z"
+    }
+]

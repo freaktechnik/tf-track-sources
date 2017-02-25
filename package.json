@@ -1,0 +1,32 @@
+{
+  "name": "tf-track-sources",
+  "version": "1.0.0",
+  "description": "Obtainability of Trials Frontier Tracks",
+  "main": "data/tracks.json",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freaktechnik/tf-track-sources.git"
+  },
+  "keywords": [
+    "trials",
+    "track",
+    "ubisoft",
+    "mobile",
+    "track",
+    "json"
+  ],
+  "author": "Martin Giger (https://humanoids.be)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/freaktechnik/tf-track-sources/issues"
+  },
+  "homepage": "https://github.com/freaktechnik/tf-track-sources#readme",
+  "private": true,
+  "devDependencies": {
+    "ajv": "^4.11.3",
+    "ava": "^0.18.2"
+  }
+}
