@@ -1,0 +1,1162 @@
+[
+    {
+        "name": "Intro",
+        "rewards": [
+            {
+                "type": "track",
+                "name": "The Cave",
+                "amount": 1
+            }
+        ],
+        "requirements": [
+            {
+                "type": "track",
+                "name": "The Cave"
+            }
+        ]
+    },
+    {
+        "name": "Intro 2",
+        "rewards": [
+            {
+                "type": "track",
+                "name": "Cave Entrance",
+                "amount": 1
+            }
+        ],
+        "requirements": [
+            {
+                "type": "quest",
+                "name": "Intro"
+            },
+            {
+                "type": "track",
+                "name": "Cave Entrance"
+            }
+        ]
+    },
+    {
+        "name": "Intro 3",
+        "rewards": [
+            {
+                "type": "blueprint",
+                "amount": 1,
+                "bike": "Armadillo"
+            },
+            {
+                "type": "feature",
+                "name": "village",
+                "amount": 1
+            }
+        ],
+        "requirements": [
+            {
+                "type": "quest",
+                "name": "Intro 2"
+            }
+        ]
+    },
+    {
+        "name": "A New Start",
+        "questGiver": "Cybil",
+        "requirements": [
+            {
+                "type": "quest",
+                "name": "Intro 3"
+            },
+            {
+                "type": "track",
+                "name": "Three Bridges"
+            }
+        ],
+        "rewards": [
+            {
+                "type": "track",
+                "name": "Three Bridges",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "name": "The Fanboy",
+        "questGiver": "Riley",
+        "requirements": [
+            {
+                "type": "quest",
+                "name": "A New Start"
+            },
+            {
+                "type": "track",
+                "name": "Pike Alley"
+            }
+        ],
+        "rewards": [
+            {
+                "type": "track",
+                "name": "Pike Alley",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "name": "The Cartographer",
+        "questGiver": "Cartographer",
+        "requirements": [
+            {
+                "type": "quest",
+                "name": "A New Start"
+            },
+            {
+                "type": "track",
+                "name": "Market Street"
+            }
+        ],
+        "rewards": [
+            {
+                "type": "track",
+                "name": "Market Street",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "name": "Candy Girl",
+        "questGiver": "Candy Girl",
+        "requirements": [
+            {
+                "type": "quest",
+                "name": "The Cartographer"
+            }
+        ],
+        "rewards": [
+            {
+                "type": "feature",
+                "name": "checkpoints",
+                "amount": 1
+            },
+            {
+                "type": "gold",
+                "amount": 10
+            }
+        ]
+    },
+    {
+        "name": "Lost and Found",
+        "questGiver": "Cybil",
+        "ghost": "butch",
+        "requirements": [
+            {
+                "type": "track",
+                "name": "The Aqueduct"
+            },
+            {
+                "type": "quest",
+                "name": "Candy Girl"
+            }
+        ],
+        "rewards": [
+            {
+                "type": "track",
+                "name": "The Aqueduct",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "name": "Sledge",
+        "questGiver": "Sledge",
+        "requirements": [
+            {
+                "type": "quest",
+                "name": "Lost and Found"
+            }
+        ],
+        "rewards": [
+            {
+                "type": "feature",
+                "name": "garage",
+                "amount": 1
+            },
+            {
+                "type": "xp",
+                "amount": 50
+            },
+            {
+                "type": "gold",
+                "amount": 100
+            }
+        ]
+    },
+    {
+        "name": "Rocky Desert",
+        "questGiver": "Cartographer",
+        "requirements": [
+            {
+                "type": "quest",
+                "name": "Sledge"
+            },
+            {
+                "type": "track",
+                "name": "Rocky Desert"
+            }
+        ],
+        "rewards": [
+            {
+                "type": "track",
+                "amount": 1,
+                "name": "Rocky Desert"
+            },
+            {
+                "type": "xp",
+                "amount": 30
+            },
+            {
+                "type": "gold",
+                "amount": 20
+            }
+        ]
+    },
+    {
+        "name": "Epic Loot",
+        "questGiver": "Sledge",
+        "requirements": [
+            {
+                "type": "quest",
+                "name": "Rocky Desert"
+            },
+            {
+                "type": "track",
+                "name": "Pike Alley"
+            },
+            {
+                "type": "loot",
+                "part": "piston",
+                "amount": 1,
+                "partLevel": 1
+            }
+        ],
+        "rewards": [
+            {
+                "type": "feature",
+                "name": "lootwheel",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "name": "Crafty",
+        "questGiver": "Sledge",
+        "requirements": [
+            {
+                "type": "quest",
+                "name": "Crafty"
+            },
+            {
+                "type": "upgrade",
+                "bike": "Armadillo",
+                "upgrade": {
+                    "level": 1,
+                    "type": "engine"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "type": "xp",
+                "amount": 50
+            },
+            {
+                "type": "gold",
+                "amount": 50
+            }
+        ]
+    },
+    {
+        "name": "Moonlight Towers",
+        "questGiver": "Cartographer",
+        "ghost": "butch",
+        "requirements": [
+            {
+                "type": "quest",
+                "name": "Crafty"
+            },
+            {
+                "type": "track",
+                "name": "Moonlight Towers"
+            }
+        ],
+        "rewards": [
+            {
+                "type": "xp",
+                "amount": 30
+            },
+            {
+                "type": "gold",
+                "amount": 75
+            },
+            {
+                "type": "track",
+                "amount": 1,
+                "name": "Moonlight Towers"
+            }
+        ]
+    },
+    {
+        "name": "Humble Beginnings",
+        "questGiver": "Zondina",
+        "requirements": [
+            {
+                "type": "quest",
+                "name": "Moonlight Towers"
+            },
+            {
+                "type": "level",
+                "amount": 10
+            }
+        ],
+        "rewards": [
+            {
+                "type": "gold",
+                "amount": 500
+            },
+            {
+                "type": "xp",
+                "amount": 500
+            }
+        ]
+    },
+    {
+        "name": "A Part of the Truth",
+        "questGiver": "Cybil",
+        "requirements": [
+            {
+                "type": "quest",
+                "name": "Moonlight Towers"
+            },
+            {
+                "type": "loot",
+                "part": "pipe",
+                "partLevel": 1
+            }
+        ],
+        "rewards": [
+            {
+                "type": "xp",
+                "amount": 70
+            },
+            {
+                "type": "gold",
+                "amount": 50
+            }
+        ]
+    },
+    {
+        "name": "Stuntman",
+        "questGiver": "Riley",
+        "requirements": [
+            {
+                "type": "quest",
+                "name": "The Fanboy"
+            },
+            {
+                "type": "accepted",
+                "name": "A PArt of the Truth"
+            },
+            {
+                "type": "stunt",
+                "stunt": "backflip",
+                "amount": 1
+            },
+            {
+                "type": "track",
+                "name": "Pike Alley"
+            }
+        ],
+        "rewards": [
+            {
+                "type": "xp",
+                "amount": 75
+            },
+            {
+                "type": "gold",
+                "amount": 60
+            }
+        ]
+    },
+    {
+        "name": "Girls best Friend",
+        "questGiver": "Sledge",
+        "requirements": [
+            {
+                "type": "quest",
+                "name": "Moonlight Towers"
+            },
+            {
+                "type": "upgrade",
+                "bike": "Armadillo",
+                "upgrade": {
+                    "type": "engine",
+                    "level": 2
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "type": "xp",
+                "amount": 50
+            },
+            {
+                "type": "gold",
+                "amount": 60
+            },
+            {
+                "type": "gem",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "name": "Front Flippin'",
+        "questGiver": "Riley",
+        "requirements": [
+            {
+                "type": "quest",
+                "name": "Stuntman"
+            },
+            {
+                "type": "track",
+                "name": "Market Street"
+            },
+            {
+                "type": "stunt",
+                "stunt": "frontflip",
+                "amount": 1
+            }
+        ],
+        "rewards": [
+            {
+                "type": "xp",
+                "amount": 80
+            },
+            {
+                "type": "gold",
+                "amount": 70
+            }
+        ]
+    },
+    {
+        "name": "Rooftops",
+        "questGiver": "Cartographer",
+        "requirements": [
+            {
+                "type": "quest",
+                "name": "Girls best Friend"
+            },
+            {
+                "type": "track",
+                "name": "Rooftops"
+            }
+        ],
+        "rewards": [
+            {
+                "type": "track",
+                "name": "Rooftops",
+                "amount": 1
+            },
+            {
+                "type": "xp",
+                "amount": 50
+            },
+            {
+                "type": "gold",
+                "amount": 70
+            }
+        ]
+    },
+    {
+        "name": "Make a Connection",
+        "questGiver": "Riley",
+        "requirements": [
+            {
+                "type": "quest",
+                "name": "Front Flippin'"
+            },
+            {
+                "type": "social",
+                "name": "ubi"
+            }
+        ],
+        "rewards": [
+            {
+                "type": "xp",
+                "amount": 60
+            },
+            {
+                "type": "gold",
+                "amount": 500
+            }
+        ]
+    },
+    {
+        "name": "Your biggest Fan",
+        "questGiver": "Riley",
+        "requirements": [
+            {
+                "type": "quest",
+                "name": "Make a Connection"
+            },
+            {
+                "type": "track",
+                "name": "Parched Cliff"
+            }
+        ],
+        "rewards": [
+            {
+                "type": "track",
+                "name": "Parched Cliff",
+                "amount": 1
+            },
+            {
+                "type": "xp",
+                "amount": 75
+            },
+            {
+                "type": "gold",
+                "amount": 75
+            }
+        ]
+    },
+    {
+        "name": "Rock Wall",
+        "questGiver": "Cartographer",
+        "ghost": "butch",
+        "requirements": [
+            {
+                "type": "quest",
+                "name": "Rooftops"
+            },
+            {
+                "type": "track",
+                "name": "Rock Wall"
+            }
+        ],
+        "rewards": [
+            {
+                "type": "track",
+                "amount": 1,
+                "name": "Rock Wall"
+            },
+            {
+                "type": "xp",
+                "amount": 70
+            },
+            {
+                "type": "gold",
+                "amount": 75
+            }
+        ]
+    },
+    {
+        "name": "Flip Out!",
+        "questGiver": "Riley",
+        "requirements": [
+            {
+                "type": "quest",
+                "name": "Your biggest Fan"
+            },
+            {
+                "type": "stunt",
+                "stunt": "backflip",
+                "amount": 2
+            },
+            {
+                "type": "track",
+                "name": "Rooftops"
+            }
+        ],
+        "rewards": [
+            {
+                "type": "blueprint",
+                "bike": "Tango",
+                "amount": 1
+            },
+            {
+                "type": "xp",
+                "amount": 75
+            },
+            {
+                "type": "gold",
+                "amount": 75
+            }
+        ]
+    },
+    {
+        "name": "Urban Jungle",
+        "questGiver": "Cartographer",
+        "requirements": [
+            {
+                "type": "quest",
+                "name": "Rock Wall"
+            },
+            {
+                "type": "track",
+                "name": "Urban Jungle"
+            }
+        ],
+        "rewards": [
+            {
+                "type": "track",
+                "name": "Urban Jungle",
+                "amount": 1
+            },
+            {
+                "type": "xp",
+                "amount": 70
+            },
+            {
+                "type": "gold",
+                "amount": 75
+            }
+        ]
+    },
+    {
+        "name": "Blueprints",
+        "questGiver": "Sledge",
+        "requirements": [
+            {
+                "type": "quest",
+                "name": "Flip Out!"
+            },
+            {
+                "type": "collect",
+                "name": "blueprint",
+                "bike": "Tango",
+                "amount": 1
+            }
+        ],
+        "rewards": [
+            {
+                "type": "xp",
+                "amount": 70
+            },
+            {
+                "type": "part",
+                "part": "nut",
+                "partLevel": 1,
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "name": "Head over Heels",
+        "questGiver": "Riley",
+        "requirements": [
+            {
+                "type": "accepted",
+                "name": "Blueprints"
+            },
+            {
+                "type": "track",
+                "name": "Moonlight Towers"
+            },
+            {
+                "type": "stunt",
+                "stung": "backflip",
+                "amount": 3
+            }
+        ],
+        "rewards": [
+            {
+                "type": "xp",
+                "amount": 70
+            },
+            {
+                "type": "gold",
+                "amount": 100
+            }
+        ]
+    },
+    {
+        "name": "Searching",
+        "questGiver": "Cybil",
+        "ghost": "leroy",
+        "requirements": [
+            {
+                "type": "quest",
+                "name": "Urban Jungle"
+            },
+            {
+                "type": "loot",
+                "part": "bolt",
+                "partLevel": 5
+            },
+            {
+                "type": "track",
+                "name": "Urban Jungle"
+            }
+        ],
+        "rewards": [
+            {
+                "type": "xp",
+                "amount": 70
+            },
+            {
+                "type": "gold",
+                "amount": 100
+            }
+        ]
+    },
+    {
+        "name": "Rockin the Rock Wall",
+        "questGiver": "Riley",
+        "requirements": [
+            {
+                "type": "quest",
+                "name": "Head over Heels"
+            },
+            {
+                "type": "track",
+                "name": "Rock Wall"
+            },
+            {
+                "type": "stunt",
+                "stunt": "frontflip",
+                "amount": 1
+            },
+            {
+                "type": "stunt",
+                "stunt": "backflip",
+                "amount": 1
+            }
+        ],
+        "rewards": [
+            {
+                "type": "blueprint",
+                "bike": "Tango",
+                "amount": 1
+            },
+            {
+                "type": "xp",
+                "amount": 110
+            }
+        ]
+    },
+    {
+        "name": "News Flash",
+        "questGiver": "Candy Girl",
+        "requirements": [
+            {
+                "type": "quest",
+                "name": "Head over Heels"
+            },
+            {
+                "type": "track",
+                "name": "Three Bridges"
+            },
+            {
+                "type": "loot",
+                "name": "candy",
+                "amount": 1
+            }
+        ],
+        "rewards": [
+            {
+                "type": "xp",
+                "amount": 90
+            },
+            {
+                "type": "gold",
+                "amount": 50
+            }
+        ]
+    },
+    {
+        "name": "New Wheels",
+        "questGiver": "Sledge",
+        "requirements": [
+            {
+                "type": "quest",
+                "name": "Blueprints"
+            },
+            {
+                "type": "quest",
+                "name": "Rockin the Rock Wall"
+            },
+            {
+                "type": "upgrade",
+                "bike": "Armadillo",
+                "upgrade": {
+                    "type": "wheels",
+                    "level": 1
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "type": "gold",
+                "amount": 200
+            },
+            {
+                "type": "xp",
+                "amount": 90
+            }
+        ]
+    },
+    {
+        "name": "Showoff",
+        "questGiver": "Sledge",
+        "requirements": [
+            {
+                "type": "quest",
+                "name": "New Wheels"
+            },
+            {
+                "type": "social",
+                "name": "ubi"
+            }
+        ],
+        "rewards": [
+            {
+                "type": "gem",
+                "amount": 10
+            },
+            {
+                "type": "xp",
+                "amount": 150
+            }
+        ]
+    },
+    {
+        "name": "Finishing Touches",
+        "questGiver": "Dawn",
+        "requirements": [
+            {
+                "type": "quest",
+                "name": "Searching"
+            },
+            {
+                "type": "collect",
+                "name": "Candy Corn"
+            }
+        ],
+        "rewards": [
+            {
+                "type": "feature",
+                "name": "shop"
+            },
+            {
+                "type": "xp",
+                "amount": 90
+            },
+            {
+                "type": "gold",
+                "amount": 100
+            }
+        ]
+    },
+    {
+        "name": "Candy Magic",
+        "questGiver": "Candy Girl",
+        "requirements": [
+            {
+                "type": "quest",
+                "name": "Finishing Touches"
+            },
+            {
+                "type": "loot",
+                "name": "candy",
+                "amount": 1
+            },
+            {
+                "type": "track",
+                "name": "The Aqueduct"
+            }
+        ],
+        "rewards": [
+            {
+                "type": "xp",
+                "amount": 90
+            },
+            {
+                "type": "gold",
+                "amount": 40
+            }
+        ]
+    },
+    {
+        "name": "Tower Song Power",
+        "questGiver": "Dawn",
+        "requirements": [
+            {
+                "type": "quest",
+                "name": "Candy Magic"
+            },
+            {
+                "type": "loot",
+                "part": "gear",
+                "partLevel": 1,
+                "amount": 1
+            },
+            {
+                "type": "loot",
+                "part": "spark",
+                "partLeve": 1,
+                "amount": 1
+            }
+        ],
+        "rewards": [
+            {
+                "type": "xp",
+                "amount": 90
+            },
+            {
+                "type": "gem",
+                "amount": 3
+            }
+        ]
+    },
+    {
+        "name": "Facial Recognition",
+        "questGiver": "Candy Girl",
+        "requirements": [
+            {
+                "type": "quest",
+                "name": "Candy Magic"
+            },
+            {
+                "type": "social",
+                "name": "like on facebook"
+            }
+        ],
+        "rewards": []
+    },
+    {
+        "name": "The Arches",
+        "questGiver": "Cartographer",
+        "ghost": "leroy",
+        "requirements": [
+            {
+                "type": "quest",
+                "name": "Tower Song Power"
+            },
+            {
+                "type": "track",
+                "name": "The Arches"
+            }
+        ],
+        "rewards": [
+            {
+                "type": "track",
+                "name": "The Arches",
+                "amount": 1
+            },
+            {
+                "type": "xp",
+                "amount": 90
+            },
+            {
+                "type": "gold",
+                "amount": 40
+            }
+        ]
+    },
+    {
+        "name": "New Ride required",
+        "questGiver": "Dawn",
+        "requirements": [
+            {
+                "type": "quest",
+                "name": "The Arches"
+            },
+            {
+                "type": "collect",
+                "name": "blueprint",
+                "bike": "Tango",
+                "amount": 2
+            }
+        ],
+        "rewards": [
+            {
+                "type": "xp",
+                "amount": 130
+            },
+            {
+                "type": "gem",
+                "amount": 5
+            }
+        ]
+    },
+    {
+        "name": "Blueprint Blackmail",
+        "questGiver": "Riley",
+        "requirements": [
+            {
+                "type": "quest",
+                "name": "New Ride required"
+            },
+            {
+                "type": "track",
+                "name": "Three Bridges"
+            },
+            {
+                "type": "stunt",
+                "stunt": "backflip",
+                "amount": 2
+            },
+            {
+                "type": "stunt",
+                "stunt": "wheelie",
+                "amount": 6
+            }
+        ],
+        "rewards": [
+            {
+                "type": "blueprint",
+                "bike": "Tango",
+                "amount": 1
+            },
+            {
+                "type": "xp",
+                "amount": 110
+            }
+        ]
+    },
+    {
+        "name": "Showtime",
+        "questGiver": "Riley",
+        "requirements": [
+            {
+                "type": "quest",
+                "name": "Blueprint Blackmail"
+            },
+            {
+                "type": "track",
+                "name": "Pike Alley"
+            },
+            {
+                "type": "stunt",
+                "stunt": "backflip",
+                "amount": 4
+            }
+        ],
+        "rewards": [
+            {
+                "type": "blueprint",
+                "bike": "Tango",
+                "amount": 1
+            },
+            {
+                "type": "xp",
+                "amount": 110
+            }
+        ]
+    },
+    {
+        "name": "Time for Tango",
+        "questGiver": "Dawn",
+        "requirements": [
+            {
+                "type": "quest",
+                "name": "Showtime"
+            },
+            {
+                "type": "build",
+                "bike": "Tango"
+            }
+        ],
+        "rewards": [
+            {
+                "type": "xp",
+                "amount": 100
+            },
+            {
+                "type": "gold",
+                "amount": 120
+            }
+        ]
+    },
+    {
+        "name": "The first Charge",
+        "questGiver": "Dawn",
+        "requirements": [
+            {
+                "type": "quest",
+                "name": "Time for Tango"
+            },
+            {
+                "type": "track",
+                "name": "Rock Wall",
+                "medal": "silver",
+                "bike": "Tango"
+            },
+            {
+                "type": "stunt",
+                "stung": "faults",
+                "amount": 0
+            }
+        ],
+        "rewards": [
+            {
+                "type": "gem",
+                "amount": 3
+            },
+            {
+                "type": "xp",
+                "amount": 300
+            }
+        ]
+    },
+    {
+        "name": "The Exile",
+        "questGiver": "Cam",
+        "requirements": [
+            {
+                "type": "event",
+                "name": "Midnight Circuit"
+            }
+        ],
+        "rewards": [
+            {
+                "type": "xp",
+                "amount": 1000
+            },
+            {
+                "type": "gem",
+                "amount": 3
+            },
+            {
+                "type": "gold",
+                "amount": 10000
+            }
+        ]
+    },
+    {
+        "name": "The Midnight Circuit",
+        "questGiver": "Cam",
+        "requirements": [
+            {
+                "type": "quest",
+                "name": "The Exile"
+            },
+            {
+                "type": "event",
+                "name": "Win in the Midnight Circuit",
+                "amount": 3
+            }
+        ],
+        "rewards": [
+            {
+                "type": "gem",
+                "amount": 5
+            },
+            {
+                "type": "gold",
+                "amount": 15000
+            },
+            {
+                "type": "xp",
+                "amount": 5000
+            }
+        ]
+    }
+]

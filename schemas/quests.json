@@ -1,0 +1,240 @@
+{
+    "$schema": "http://json-schema.org/schema#",
+    "id": "https://lab.humanoids.be/tf-track-sources/schemas/quests.json",
+    "title": "Trials Frontier Quest Tree",
+    "type": "array",
+    "uniqueItems": true,
+    "items": {
+        "title": "Quest",
+        "type": "object",
+        "properties": {
+            "questGiver": {
+                "enum": [
+                    "Cybil",
+                    "Cartographer",
+                    "Riley",
+                    "Candy Girl",
+                    "Sledge",
+                    "Zondina",
+                    "Dawn",
+                    "Cam"
+                ]
+            },
+            "name": {
+                "type": "string",
+                "minLength": 3
+            },
+            "ghost": {
+                "enum": [
+                    "butch",
+                    "leroy",
+                    "terracotta"
+                ]
+            },
+            "rewards": {
+                "type": "array",
+                "uniqueItems": true,
+                "items": {
+                    "title": "Reward",
+                    "type": "object",
+                    "properties": {
+                        "amount": {
+                            "type": "number",
+                            "min": 1
+                        },
+                        "type": {
+                            "enum": [
+                                "gold",
+                                "gem",
+                                "xp",
+                                "part",
+                                "track",
+                                "blueprint",
+                                "feature"
+                            ]
+                        },
+                        "name": {
+                            "description": "Track name",
+                            "type": "string",
+                            "minLength": 3
+                        },
+                        "bike": {
+                            "enum": [
+                                "Armadillo",
+                                "Tango",
+                                "Bronco",
+                                "KTM 500-EXC",
+                                "Jackal",
+                                "Mantis",
+                                "Marauder",
+                                "KTM 450 Rally",
+                                "Riptide",
+                                "Berserker",
+                                "Phantom",
+                                "Stallion",
+                                "Agent",
+                                "Donkey"
+                            ]
+                        },
+                        "part": {
+                            "enum": [
+                                "nut",
+                                "bolt",
+                                "gear",
+                                "piston",
+                                "bearing",
+                                "sheet",
+                                "spring",
+                                "chain",
+                                "pipe",
+                                "spark"
+                            ]
+                        },
+                        "partLevel": {
+                            "type": "number",
+                            "min": 1,
+                            "max": 5
+                        }
+                    },
+                    "requiredProperties": [
+                        "type",
+                        "amount"
+                    ]
+                },
+                "minItems": 0
+            },
+            "requirements": {
+                "type": "array",
+                "items": {
+                    "title": "Requirement",
+                    "type": "object",
+                    "properties": {
+                        "type": {
+                            "description": "The different types of quest requirements. Collect is getting an item while on the track. Social can also be rejected to complete the requirement for the quest, but you get no rewards. Accepted means the quest has to be accepted but not completed, while quest means it has to be completed. Those are both pre-conditions while everything else are quest completion conditions.",
+                            "enum": [
+                                "track",
+                                "quest",
+                                "stunt",
+                                "collect",
+                                "loot",
+                                "upgrade",
+                                "ghost",
+                                "social",
+                                "level",
+                                "accepted",
+                                "build",
+                                "event"
+                            ]
+                        },
+                        "name": {
+                            "type": "string",
+                            "minLength": 3,
+                            "title": "Track name, quest name or collection type"
+                        },
+                        "bike": {
+                            "enum": [
+                                "Armadillo",
+                                "Tango",
+                                "Bronco",
+                                "KTM 500-EXC",
+                                "Jackal",
+                                "Mantis",
+                                "Marauder",
+                                "KTM 450 Rally",
+                                "Riptide",
+                                "Berserker",
+                                "Phantom",
+                                "Stallion",
+                                "Agent",
+                                "Donkey"
+                            ]
+                        },
+                        "stunt": {
+                            "enum": [
+                                "backflip",
+                                "frontflip",
+                                "wheelie",
+                                "airtime",
+                                "inverted",
+                                "faults"
+                            ]
+                        },
+                        "amount": {
+                            "type": "number",
+                            "min": 1,
+                            "title": "How many have to be completed/collected"
+                        },
+                        "part": {
+                            "enum": [
+                                "nut",
+                                "bolt",
+                                "gear",
+                                "piston",
+                                "bearing",
+                                "sheet",
+                                "spring",
+                                "chain",
+                                "pipe",
+                                "spark"
+                            ]
+                        },
+                        "partLevel": {
+                            "type": "number",
+                            "min": 1,
+                            "max": 5
+                        },
+                        "upgrade": {
+                            "type": "object",
+                            "properties": {
+                                "type": {
+                                    "enum": [
+                                        "engine",
+                                        "handlebar",
+                                        "wheels",
+                                        "frame"
+                                    ]
+                                },
+                                "level": {
+                                    "type": "number",
+                                    "min": 1,
+                                    "max": 10
+                                }
+                            },
+                            "requiredProperties": [
+                                "type",
+                                "level"
+                            ]
+                        },
+                        "ghost": {
+                            "enum": [
+                                "butch",
+                                "leroy",
+                                "terracotta",
+                                "skeleton"
+                            ]
+                        },
+                        "medal": {
+                            "description": "Medal a track has to be finished with",
+                            "default": "bronze",
+                            "enum": [
+                                "bronze",
+                                "silver",
+                                "gold",
+                                "platinum"
+                            ]
+                        }
+                    },
+                    "requiredProperties": [
+                        "type"
+                    ]
+                },
+                "minItems": 1
+            }
+        },
+        "requiredProperties": [
+            "name",
+            "rewards",
+            "requirements"
+        ]
+    }
+}
