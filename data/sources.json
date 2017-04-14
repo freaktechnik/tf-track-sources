@@ -175,5 +175,17 @@
         "name": "KTM Season",
         "from": "2016-02-28T00:00:00.000Z",
         "until": "2016-03-27T00:00:00.000Z"
+    },
+    {
+        "type": "pack",
+        "name": "Halloween Track Pack",
+        "from": "2017-04-12T00:00:00.000Z",
+        "source": "Special Offers"
+    },
+    {
+        "type": "event",
+        "name": "Trials Frontier Turns Three!",
+        "from": "2017-04-12T00:00:00.000Z",
+        "description": "Gift given out to all players for three years of the Frontier."
     }
 ]

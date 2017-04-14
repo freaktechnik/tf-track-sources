@@ -1310,6 +1310,9 @@
         "sources": [
             {
                 "source": "Halloween 2015"
+            },
+            {
+                "source": "Halloween Track Pack"
             }
         ]
     },
@@ -1318,6 +1321,9 @@
         "sources": [
             {
                 "source": "Halloween 2015"
+            },
+            {
+                "source": "Halloween Track Pack"
             }
         ]
     },
@@ -1326,6 +1332,9 @@
         "sources": [
             {
                 "source": "Halloween 2015"
+            },
+            {
+                "source": "Halloween Track Pack"
             }
         ]
     },
@@ -1334,6 +1343,9 @@
         "sources": [
             {
                 "source": "Halloween 2015"
+            },
+            {
+                "source": "Halloween Track Pack"
             }
         ]
     },
@@ -1342,6 +1354,9 @@
         "sources": [
             {
                 "source": "Halloween 2015"
+            },
+            {
+                "source": "Halloween Track Pack"
             }
         ]
     },
@@ -1350,6 +1365,9 @@
         "sources": [
             {
                 "source": "Halloween 2015"
+            },
+            {
+                "source": "Halloween Track Pack"
             }
         ]
     },
@@ -1986,6 +2004,14 @@
         "sources": [
             {
                 "source": "Hardcore Track Pack 3"
+            }
+        ]
+    },
+    {
+        "name": "Headhurt Bluff",
+        "sources": [
+            {
+                "source": "Trials Frontier Turns Three!"
             }
         ]
     }
