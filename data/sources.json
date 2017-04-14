@@ -187,5 +187,11 @@
         "name": "Trials Frontier Turns Three!",
         "from": "2017-04-12T00:00:00.000Z",
         "description": "Gift given out to all players for three years of the Frontier."
+    },
+    {
+        "type": "season",
+        "name": "ROFL Season",
+        "from": "2017-04-09T11:00:00.000Z",
+        "until": "2017-05-06T11:00:00.000Z"
     }
 ]
