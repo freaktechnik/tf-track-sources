@@ -193,5 +193,12 @@
         "name": "ROFL Season",
         "from": "2017-04-09T11:00:00.000Z",
         "until": "2017-05-06T11:00:00.000Z"
+    },
+    {
+        "type": "pack",
+        "name": "More Tier 3 Tracks",
+        "from": "2017-04-19T00:00:00.000Z",
+        "description": "Special track pack available for a limited time.",
+        "source": "Special Offers"
     }
 ]
