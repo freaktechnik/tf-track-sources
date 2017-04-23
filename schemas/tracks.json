@@ -1,6 +1,6 @@
 {
     "$schema": "http://json-schema.org/schema#",
-    "id": "https://lab.humanoids.be/tf-track-sources/schemas/tracks.json",
+    "$id": "https://lab.humanoids.be/tf-track-sources/schemas/tracks.json",
     "title": "Trials Frontier Track Obtaining Schema",
     "type": "array",
     "uniqueItems": true,
