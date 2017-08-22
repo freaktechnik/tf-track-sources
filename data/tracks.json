@@ -1407,7 +1407,8 @@
             },
             {
                 "source": "Daily Deals",
-                "cost": 100
+                "cost": 100,
+                "start": "2017-07-06T00:00:00Z"
             }
         ]
     },
