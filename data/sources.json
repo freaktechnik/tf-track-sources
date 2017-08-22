@@ -220,5 +220,12 @@
         "name": "The Bandito Rally Challenge",
         "from": "2017-06-16T11:00:00.000Z",
         "until": "2017-06-28T11:00:00.000Z"
+    },
+    {
+        "type": "event",
+        "name": "Easter Egg Hunt 2017",
+        "from": "2017-05-12T11:30:00.000Z",
+        "until": "2017-06-12T11:30:00.000Z",
+        "description": "Hunt hidden easter eggs to get track pieces as reward. Top 5% of players get an extra track."
     }
 ]
