@@ -1404,6 +1404,10 @@
         "sources": [
             {
                 "source": "Halloween 2015"
+            },
+            {
+                "source": "Daily Deals",
+                "cost": 100
             }
         ]
     },
