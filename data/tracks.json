@@ -1489,6 +1489,11 @@
         "sources": [
             {
                 "source": "Christmas 2015"
+            },
+            {
+                "source": "Daily Deals",
+                "cost": 120,
+                "from": "2017-08-10T00:00:00Z"
             }
         ]
     },
@@ -1497,6 +1502,11 @@
         "sources": [
             {
                 "source": "Christmas 2015"
+            },
+            {
+                "source": "Daily Deals",
+                "cost": 120,
+                "from": "2017-08-10T00:00:00Z"
             }
         ]
     },
