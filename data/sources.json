@@ -200,5 +200,12 @@
         "from": "2017-04-19T00:00:00.000Z",
         "description": "Special track pack available for a limited time.",
         "source": "Special Offers"
+    },
+    {
+        "type": "pack",
+        "name": "Cam's Track pack",
+        "from": "2017-08-10T00:00:00.000Z",
+        "description": "Midnight Circuit track pack.",
+        "source": "Special Offers"
     }
 ]
