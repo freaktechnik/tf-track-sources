@@ -2073,5 +2073,109 @@
                 "source": "Trials Frontier Turns Three!"
             }
         ]
+    },
+    {
+        "name": "Swamp Breath",
+        "sources": [
+            {
+                "source": "The Bandito Rally Challenge"
+            }
+        ]
+    },
+    {
+        "name": "Ravenous Ram",
+        "sources": [
+            {
+                "source": "The Bandito Rally Challenge"
+            }
+        ]
+    },
+    {
+        "name": "Sundown Slam",
+        "sources": [
+            {
+                "source": "The Bandito Rally Challenge"
+            }
+        ]
+    },
+    {
+        "name": "Rejection Blues",
+        "sources": [
+            {
+                "source": "The Bandito Rally Challenge"
+            }
+        ]
+    },
+    {
+        "name": "Fatal Fungus",
+        "sources": [
+            {
+                "source": "The Bandito Rally Challenge"
+            }
+        ]
+    },
+    {
+        "name": "Graviton Swamp",
+        "sources": [
+            {
+                "source": "The Bandito Rally Challenge"
+            }
+        ]
+    },
+    {
+        "name": "Aztec Trance",
+        "sources": [
+            {
+                "source": "Miss Iris Norkana"
+            }
+        ]
+    },
+    {
+        "name": "Pinball Pains",
+        "sources": [
+            {
+                "source": "Miss Iris Norkana"
+            }
+        ]
+    },
+    {
+        "name": "Suspended Getaway",
+        "sources": [
+            {
+                "source": "Miss Iris Norkana"
+            }
+        ]
+    },
+    {
+        "name": "Spelunker Graves",
+        "sources": [
+            {
+                "source": "Miss Iris Norkana"
+            }
+        ]
+    },
+    {
+        "name": "Pain Marsh",
+        "sources": [
+            {
+                "source": "Miss Iris Norkana"
+            }
+        ]
+    },
+    {
+        "name": "Rowdy Roofing",
+        "sources": [
+            {
+                "source": "Miss Iris Norkana"
+            }
+        ]
+    },
+    {
+        "name": "Acid Bath",
+        "sources": [
+            {
+                "source": "Miss Iris Norkana"
+            }
+        ]
     }
 ]

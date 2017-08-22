@@ -207,5 +207,18 @@
         "from": "2017-08-10T00:00:00.000Z",
         "description": "Midnight Circuit track pack.",
         "source": "Special Offers"
+    },
+    {
+        "type": "event",
+        "name": "Miss Iris Norkana",
+        "from": "2017-07-06T00:00:00.000Z",
+        "until": "2017-07-30T00:00:00.000Z",
+        "description": "Battle for completing tracks fast with as many tricks as possible while avoiding hazards. This was measured in reputation.",
+    },
+    {
+        "type": "event",
+        "name": "The Bandito Rally Challenge",
+        "from": "2017-06-16T11:00:00.000Z",
+        "until": "2017-06-28T11:00:00.000Z"
     }
 ]
