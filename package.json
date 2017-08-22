@@ -1,6 +1,6 @@
 {
   "name": "tf-track-sources",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Obtainability of Trials Frontier Tracks",
   "main": "data/tracks.json",
   "scripts": {
