@@ -227,5 +227,10 @@
         "from": "2017-05-12T11:30:00.000Z",
         "until": "2017-06-12T11:30:00.000Z",
         "description": "Hunt hidden easter eggs to get track pieces as reward. Top 5% of players get an extra track."
+    },
+    {
+        "type": "event",
+        "name": "Midnight Circuit",
+        "description": "Rewards of the Midnight Circuit"
     }
 ]
