@@ -232,5 +232,10 @@
         "type": "event",
         "name": "Midnight Circuit",
         "description": "Rewards of the Midnight Circuit"
+    },
+    {
+        "type": "pack",
+        "name": "Christmas 2015 Track Pack",
+        "from": "2017-08-20T00:00:00.000Z"
     }
 ]

@@ -1468,6 +1468,10 @@
             },
             {
                 "source": "Midnight Circuit"
+            },
+            {
+                "source": "Christmas 2015 Track Pack",
+                "cost": 300
             }
         ]
     },
@@ -1476,6 +1480,10 @@
         "sources": [
             {
                 "source": "Christmas 2015"
+            },
+            {
+                "source": "Christmas 2015 Track Pack",
+                "cost": 300
             }
         ]
     },
@@ -1518,6 +1526,10 @@
         "sources": [
             {
                 "source": "Christmas 2015"
+            },
+            {
+                "source": "Christmas 2015 Track Pack",
+                "cost": 300
             }
         ]
     },
@@ -1542,6 +1554,10 @@
         "sources": [
             {
                 "source": "Christmas 2015"
+            },
+            {
+                "source": "Christmas 2015 Track Pack",
+                "cost": 300
             }
         ]
     },
