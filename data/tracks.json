@@ -1325,6 +1325,10 @@
             },
             {
                 "source": "Halloween Track Pack"
+            },
+            {
+                "source": "Halloween 2016 Track Pack",
+                "cost": 500
             }
         ]
     },
@@ -1336,6 +1340,10 @@
             },
             {
                 "source": "Halloween Track Pack"
+            },
+            {
+                "source": "Halloween 2016 Track Pack",
+                "cost": 500
             }
         ]
     },
@@ -1369,6 +1377,10 @@
             },
             {
                 "source": "Halloween Track Pack"
+            },
+            {
+                "source": "Halloween 2016 Track Pack",
+                "cost": 500
             }
         ]
     },
@@ -1384,10 +1396,14 @@
         ]
     },
     {
-        "name": "Pumpking Desert",
+        "name": "Pumpkin Desert",
         "sources": [
             {
                 "source": "Halloween 2015"
+            },
+            {
+                "source": "Halloween 2016 Track Pack",
+                "cost": 500
             }
         ]
     },
@@ -1396,6 +1412,10 @@
         "sources": [
             {
                 "source": "Halloween 2015"
+            },
+            {
+                "source": "Halloween 2016 Track Pack",
+                "cost": 500
             }
         ]
     },
@@ -1409,6 +1429,10 @@
                 "source": "Daily Deals",
                 "cost": 100,
                 "start": "2017-07-06T00:00:00.000Z"
+            },
+            {
+                "source": "Halloween 2016 Track Pack",
+                "cost": 500
             }
         ]
     },
@@ -1730,6 +1754,9 @@
             },
             {
                 "source": "ROFL Season"
+            },
+            {
+                "source": "Oktoberfest Season"
             }
         ]
     },
@@ -2250,6 +2277,14 @@
         "sources": [
             {
                 "source": "Easter Egg Hunt 2017"
+            }
+        ]
+    },
+    {
+        "name": "Rest in Pieces",
+        "sources": [
+            {
+                "source": "Oktoberfest Season"
             }
         ]
     }
