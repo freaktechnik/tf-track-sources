@@ -2287,5 +2287,32 @@
                 "source": "Oktoberfest Season"
             }
         ]
+    },
+    {
+        "name": "Distilled Hops",
+        "sources": [
+            {
+                "source": "Oktoberfest Track Pack",
+                "cost": 350
+            }
+        ]
+    },
+    {
+        "name": "Midnight Brewery",
+        "sources": [
+            {
+                "source": "Oktoberfest Track Pack",
+                "cost": 350
+            }
+        ]
+    },
+    {
+        "name": "Fermented Caves",
+        "sources": [
+            {
+                "source": "Oktoberfest Track Pack",
+                "cost": 350
+            }
+        ]
     }
 ]
