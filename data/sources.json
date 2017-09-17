@@ -180,7 +180,8 @@
         "type": "pack",
         "name": "Halloween Track Pack",
         "from": "2017-04-12T00:00:00.000Z",
-        "source": "Special Offers"
+        "source": "Special Offers",
+        "cost": 500
     },
     {
         "type": "event",
@@ -206,7 +207,8 @@
         "name": "Cam's Track pack",
         "from": "2017-08-10T00:00:00.000Z",
         "description": "Midnight Circuit track pack.",
-        "source": "Special Offers"
+        "source": "Special Offers",
+        "cost": 400
     },
     {
         "type": "event",
@@ -236,7 +238,8 @@
     {
         "type": "pack",
         "name": "Christmas 2015 Track Pack",
-        "from": "2017-08-20T00:00:00.000Z"
+        "from": "2017-08-20T00:00:00.000Z",
+        "cost": 300
     },
     {
         "type": "season",
@@ -248,13 +251,15 @@
         "type": "pack",
         "name": "Halloween 2016 Track Pack",
         "from": "2017-09-09T12:00:00.000Z",
-        "source": "Special Offers"
+        "source": "Special Offers",
+        "cost": 500
     },
     {
         "type": "pack",
         "name": "Oktoberfest Track Pack",
         "from": "2017-09-11T00:00:00.000Z",
         "until": "2017-10-02T00:00:00.000Z",
-        "source": "Special Offers"
+        "source": "Special Offers",
+        "cost": 350
     }
 ]

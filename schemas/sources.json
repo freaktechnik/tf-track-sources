@@ -52,6 +52,10 @@
             "description": {
                 "type": "string",
                 "minLength": 10
+            },
+            "cost": {
+                "type": "number",
+                "min": 1
             }
         },
         "required": [

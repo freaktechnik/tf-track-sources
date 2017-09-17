@@ -1327,8 +1327,7 @@
                 "source": "Halloween Track Pack"
             },
             {
-                "source": "Halloween 2016 Track Pack",
-                "cost": 500
+                "source": "Halloween 2016 Track Pack"
             }
         ]
     },
@@ -1342,8 +1341,7 @@
                 "source": "Halloween Track Pack"
             },
             {
-                "source": "Halloween 2016 Track Pack",
-                "cost": 500
+                "source": "Halloween 2016 Track Pack"
             }
         ]
     },
@@ -1379,8 +1377,7 @@
                 "source": "Halloween Track Pack"
             },
             {
-                "source": "Halloween 2016 Track Pack",
-                "cost": 500
+                "source": "Halloween 2016 Track Pack"
             }
         ]
     },
@@ -1402,8 +1399,7 @@
                 "source": "Halloween 2015"
             },
             {
-                "source": "Halloween 2016 Track Pack",
-                "cost": 500
+                "source": "Halloween 2016 Track Pack"
             }
         ]
     },
@@ -1414,8 +1410,7 @@
                 "source": "Halloween 2015"
             },
             {
-                "source": "Halloween 2016 Track Pack",
-                "cost": 500
+                "source": "Halloween 2016 Track Pack"
             }
         ]
     },
@@ -1431,8 +1426,7 @@
                 "start": "2017-07-06T00:00:00.000Z"
             },
             {
-                "source": "Halloween 2016 Track Pack",
-                "cost": 500
+                "source": "Halloween 2016 Track Pack"
             }
         ]
     },
@@ -1494,8 +1488,7 @@
                 "source": "Midnight Circuit"
             },
             {
-                "source": "Christmas 2015 Track Pack",
-                "cost": 300
+                "source": "Christmas 2015 Track Pack"
             }
         ]
     },
@@ -1506,8 +1499,7 @@
                 "source": "Christmas 2015"
             },
             {
-                "source": "Christmas 2015 Track Pack",
-                "cost": 300
+                "source": "Christmas 2015 Track Pack"
             }
         ]
     },
@@ -1552,8 +1544,7 @@
                 "source": "Christmas 2015"
             },
             {
-                "source": "Christmas 2015 Track Pack",
-                "cost": 300
+                "source": "Christmas 2015 Track Pack"
             }
         ]
     },
@@ -1580,8 +1571,7 @@
                 "source": "Christmas 2015"
             },
             {
-                "source": "Christmas 2015 Track Pack",
-                "cost": 300
+                "source": "Christmas 2015 Track Pack"
             }
         ]
     },
@@ -1707,11 +1697,13 @@
         "sources": [
             {
                 "source": "Map",
-                "cost": 10
+                "cost": 10,
+                "piece": true
             },
             {
                 "source": "Bunker Chip Shop",
-                "cost": 200
+                "cost": 200,
+                "piece": true
             }
         ]
     },
@@ -1827,8 +1819,7 @@
                 "source": "Midnight Circuit 2016"
             },
             {
-                "source": "Cam's Track pack",
-                "cost": 400
+                "source": "Cam's Track pack"
             }
         ]
     },
@@ -1839,8 +1830,7 @@
                 "source": "Midnight Circuit 2016"
             },
             {
-                "source": "Cam's Track pack",
-                "cost": 400
+                "source": "Cam's Track pack"
             }
         ]
     },
@@ -1851,8 +1841,7 @@
                 "source": "Midnight Circuit 2016"
             },
             {
-                "source": "Cam's Track pack",
-                "cost": 400
+                "source": "Cam's Track pack"
             }
         ]
     },
@@ -1863,8 +1852,7 @@
                 "source": "Midnight Circuit 2016"
             },
             {
-                "source": "Cam's Track pack",
-                "cost": 400
+                "source": "Cam's Track pack"
             }
         ]
     },
@@ -1875,8 +1863,7 @@
                 "source": "Midnight Circuit 2016"
             },
             {
-                "source": "Cam's Track pack",
-                "cost": 400
+                "source": "Cam's Track pack"
             }
         ]
     },
@@ -1890,25 +1877,31 @@
     },
     {
         "name": "The Assumption",
+        "pieces": 10,
         "sources": [
             {
-                "source": "KTM 2017"
+                "source": "KTM 2017",
+                "piece": true
             }
         ]
     },
     {
         "name": "Peace Hammer",
+        "pieces": 10,
         "sources": [
             {
-                "source": "KTM 2017"
+                "source": "KTM 2017",
+                "piece": true
             }
         ]
     },
     {
         "name": "Fair Winds",
+        "pieces": 10,
         "sources": [
             {
-                "source": "KTM 2017"
+                "source": "KTM 2017",
+                "piece": true
             }
         ]
     },
@@ -1917,7 +1910,8 @@
         "pieces": 10,
         "sources": [
             {
-                "source": "KTM 2017"
+                "source": "KTM 2017",
+                "piece": true
             }
         ]
     },
@@ -1926,11 +1920,18 @@
         "pieces": 10,
         "sources": [
             {
-                "source": "KTM 2017"
+                "source": "KTM 2017",
+                "piece": true
             },
             {
                 "source": "Map",
-                "cost": 10
+                "cost": 10,
+                "piece": true
+            },
+            {
+                "source": "Bunker Chip Shop",
+                "cost": 200,
+                "piece": true
             }
         ]
     },
@@ -1939,7 +1940,8 @@
         "pieces": 10,
         "sources": [
             {
-                "source": "KTM 2017"
+                "source": "KTM 2017",
+                "piece": true
             }
         ]
     },
@@ -1948,7 +1950,8 @@
         "pieces": 10,
         "sources": [
             {
-                "source": "KTM 2017"
+                "source": "KTM 2017",
+                "piece": true
             }
         ]
     },
@@ -2122,25 +2125,31 @@
     },
     {
         "name": "Swamp Breath",
+        "pieces": 10,
         "sources": [
             {
-                "source": "The Bandito Rally Challenge"
+                "source": "The Bandito Rally Challenge",
+                "piece": true
             }
         ]
     },
     {
         "name": "Ravenous Ram",
+        "pieces": 10,
         "sources": [
             {
-                "source": "The Bandito Rally Challenge"
+                "source": "The Bandito Rally Challenge",
+                "piece": true
             }
         ]
     },
     {
         "name": "Sundown Slam",
+        "pieces": 10,
         "sources": [
             {
-                "source": "The Bandito Rally Challenge"
+                "source": "The Bandito Rally Challenge",
+                "piece": true
             }
         ]
     },
@@ -2154,9 +2163,11 @@
     },
     {
         "name": "Fatal Fungus",
+        "pieces": 10,
         "sources": [
             {
-                "source": "The Bandito Rally Challenge"
+                "source": "The Bandito Rally Challenge",
+                "piece": true
             }
         ]
     },
@@ -2170,57 +2181,71 @@
     },
     {
         "name": "Aztec Trance",
+        "pieces": 10,
         "sources": [
             {
-                "source": "Miss Iris Norkana"
+                "source": "Miss Iris Norkana",
+                "piece": true
             }
         ]
     },
     {
         "name": "Pinball Pains",
+        "pieces": 10,
         "sources": [
             {
-                "source": "Miss Iris Norkana"
+                "source": "Miss Iris Norkana",
+                "piece": true
             }
         ]
     },
     {
         "name": "Suspended Getaway",
+        "pieces": 10,
         "sources": [
             {
-                "source": "Miss Iris Norkana"
+                "source": "Miss Iris Norkana",
+                "piece": true
             }
         ]
     },
     {
         "name": "Spelunker Graves",
+        "pieces": 10,
         "sources": [
             {
-                "source": "Miss Iris Norkana"
+                "source": "Miss Iris Norkana",
+                "piece": true
             }
         ]
     },
     {
         "name": "Pain Marsh",
+        "pieces": 10,
         "sources": [
             {
-                "source": "Miss Iris Norkana"
+                "source": "Miss Iris Norkana",
+                "piece": true
             }
         ]
     },
     {
         "name": "Rowdy Roofing",
+        "pieces": 10,
         "sources": [
             {
-                "source": "Miss Iris Norkana"
+                "source": "Miss Iris Norkana",
+                "piece": true
             }
         ]
     },
     {
         "name": "Acid Bath",
+        "pieces": 10,
         "sources": [
             {
-                "source": "Miss Iris Norkana"
+                "source": "Miss Iris Norkana",
+                "piece": true
             }
         ]
     },
@@ -2234,38 +2259,47 @@
     },
     {
         "name": "Mile High",
+        "pieces": 10,
         "sources": [
             {
-                "source": "Easter Egg Hunt 2017"
+                "source": "Easter Egg Hunt 2017",
+                "piece": true
             }
         ]
     },
     {
         "name": "Snowcap Smackdown",
+        "pieces": 10,
         "sources": [
             {
-                "source": "Easter Egg Hunt 2017"
+                "source": "Easter Egg Hunt 2017",
+                "piece": true
             }
         ]
     },
     {
         "name": "Icy Altar",
+        "pieces": 10,
         "sources": [
             {
-                "source": "Easter Egg Hunt 2017"
+                "source": "Easter Egg Hunt 2017",
+                "piece": true
             }
         ]
     },
     {
         "name": "Kaiju Canyon",
+        "pieces": 10,
         "sources": [
             {
-                "source": "Easter Egg Hunt 2017"
+                "source": "Easter Egg Hunt 2017",
+                "piece": true
             }
         ]
     },
     {
         "name": "Break and Enter",
+
         "sources": [
             {
                 "source": "Easter Egg Hunt 2017"
@@ -2292,8 +2326,7 @@
         "name": "Distilled Hops",
         "sources": [
             {
-                "source": "Oktoberfest Track Pack",
-                "cost": 350
+                "source": "Oktoberfest Track Pack"
             }
         ]
     },
@@ -2301,8 +2334,7 @@
         "name": "Midnight Brewery",
         "sources": [
             {
-                "source": "Oktoberfest Track Pack",
-                "cost": 350
+                "source": "Oktoberfest Track Pack"
             }
         ]
     },
@@ -2310,8 +2342,7 @@
         "name": "Fermented Caves",
         "sources": [
             {
-                "source": "Oktoberfest Track Pack",
-                "cost": 350
+                "source": "Oktoberfest Track Pack"
             }
         ]
     }

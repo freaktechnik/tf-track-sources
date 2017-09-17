@@ -48,6 +48,9 @@
                         "condition": {
                             "type": "string",
                             "description": "Conditions additional to having at least one bike for the tier the track requires"
+                        },
+                        "piece": {
+                            "type": "boolean"
                         }
                     },
                     "required": [
