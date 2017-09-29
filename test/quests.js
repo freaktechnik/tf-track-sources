@@ -48,7 +48,7 @@ test('No circular quests', (t) => {
 
 test('Tracks rewarded after first use', (t) => {
     //TODO don't make this test depend on the order of quests in the array. i.e. build the quest tree.
-    let awardedTracks = new Set();
+    const awardedTracks = new Set();
     for(const quest of quests) {
         const requiredTracks = quest.requirements.filter((r) => r.type === "track");
         for(const track of requiredTracks) {

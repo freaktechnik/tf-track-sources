@@ -4,7 +4,8 @@
   "description": "Obtainability of Trials Frontier Tracks",
   "main": "data/tracks.json",
   "scripts": {
-    "test": "ava"
+    "lint": "eslint test/ schemas/ data/ --ext js,json",
+    "test": "npm run lint && ava"
   },
   "repository": {
     "type": "git",
@@ -27,6 +28,8 @@
   "private": true,
   "devDependencies": {
     "ajv": "^5.0.0",
-    "ava": "^0.22.0"
+    "ava": "^0.22.0",
+    "eslint": "^4.8.0",
+    "eslint-plugin-freaktechnik": "^3.0.11"
   }
 }
