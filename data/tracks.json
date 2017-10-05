@@ -2345,5 +2345,31 @@
                 "source": "Oktoberfest Track Pack"
             }
         ]
+    },
+    {
+        "name": "Dual Hops",
+        "sources": [
+            {
+                "source": "BMW Rally Challenge"
+            }
+        ]
+    },
+    {
+        "name": "Skyline Fling",
+        "pieces": 10,
+        "sources": [
+            {
+                "source": "BMW Rally Challenge"
+            }
+        ]
+    },
+    {
+        "name": "Rampant Ramps",
+        "pieces": 10,
+        "sources": [
+            {
+                "source": "BMW Rally Challenge"
+            }
+        ]
     }
 ]

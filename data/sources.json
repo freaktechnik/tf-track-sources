@@ -261,5 +261,11 @@
         "until": "2017-10-02T00:00:00.000Z",
         "source": "Special Offers",
         "cost": 350
+    },
+    {
+        "type": "event",
+        "name": "BMW Rally Challenge",
+        "from": "2017-10-05T09:01:00.000Z",
+        "until": "2017-10-29T09:00:00.000Z"
     }
 ]
