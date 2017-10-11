@@ -2371,5 +2371,21 @@
                 "source": "BMW Rally Challenge"
             }
         ]
+    },
+    {
+        "name": "Hanging Gardens",
+        "sources": [
+            {
+                "source": "BMW Rally Challenge"
+            }
+        ]
+    },
+    {
+        "name": "Treachery",
+        "sources": [
+            {
+                "source": "Trick or Track Season"
+            }
+        ]
     }
 ]

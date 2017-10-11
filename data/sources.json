@@ -245,7 +245,7 @@
         "type": "season",
         "name": "Oktoberfest Season",
         "from": "2017-09-08T19:00:00.000Z",
-        "until": "2017-10-09T19:00:00.000Z"
+        "until": "2017-10-11T09:59:00.000Z"
     },
     {
         "type": "pack",
@@ -267,5 +267,11 @@
         "name": "BMW Rally Challenge",
         "from": "2017-10-05T09:01:00.000Z",
         "until": "2017-10-29T09:00:00.000Z"
+    },
+    {
+        "type": "season",
+        "name": "Trick or Track Season",
+        "from": "2017-10-11T10:00:00.000Z",
+        "until": "2017-11-09T11:59:00.000Z"
     }
 ]
