@@ -30,6 +30,6 @@
     "ajv": "^5.0.0",
     "ava": "^0.22.0",
     "eslint": "^4.8.0",
-    "eslint-plugin-freaktechnik": "^4.0.0"
+    "eslint-plugin-freaktechnik": "^5.0.0"
   }
 }
