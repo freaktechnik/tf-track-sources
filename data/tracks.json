@@ -2387,5 +2387,13 @@
                 "source": "Trick or Track Season"
             }
         ]
+    },
+    {
+        "name": "Mushroom Boom",
+        "sources": [
+            {
+                "source": "BMW Rally Challenge"
+            }
+        ]
     }
 ]
