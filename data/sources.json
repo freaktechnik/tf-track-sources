@@ -273,5 +273,11 @@
         "name": "Trick or Track Season",
         "from": "2017-10-11T10:00:00.000Z",
         "until": "2017-11-09T11:59:00.000Z"
+    },
+    {
+        "type": "pack",
+        "name": "Midnight Circuit Track Pack",
+        "source": "Special Offers",
+        "cost": 350
     }
 ]
