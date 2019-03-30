@@ -31,7 +31,7 @@
     "@freaktechnik/eslint-config-test": "^6.5.1",
     "ajv": "^6.5.4",
     "ava": "^1.0.1",
-    "eslint": "^5.6.0"
+    "eslint": "5.15.3"
   },
   "engines": {
     "node": ">= 7.0.0"
